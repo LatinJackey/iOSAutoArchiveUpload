@@ -4,7 +4,7 @@
 
 在工程主目录创建plist文件（ExportOptions.plist)必须使用这个名字
 可以自己创建，也可以从已打包的文件中获取
-![0a530961d3309847756beb85fdb42d46.png](evernotecid://6346E8F1-6F5B-4239-8299-36C57782EB1E/appyinxiangcom/13599514/ENResource/p27)
+![](https://github.com/LatinJackey/iOSAutoArchiveUpload/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%20.png)
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -39,7 +39,7 @@
 ### 获取方法：
   用xcode打包后，导出时，选择手动管理证书文件，选择完毕后导出，在导出的文件夹中可以看到ExportOptions.plist文件。
   将该文件拖入到工程主目录即可
-  ![b74a23e6c11fa666f40844a5bc7d585d.png](evernotecid://6346E8F1-6F5B-4239-8299-36C57782EB1E/appyinxiangcom/13599514/ENResource/p28)
+  ![](https://github.com/LatinJackey/iOSAutoArchiveUpload/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A72.png)
   
  
  
