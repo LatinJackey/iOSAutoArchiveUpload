@@ -41,5 +41,11 @@
   将该文件拖入到工程主目录即可
   ![](https://github.com/LatinJackey/iOSAutoArchiveUpload/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A72.png)
   
+### 使用ssh登录到打包服务器：
+1.解锁钥匙串：security unlock-keychain
+2.使用脚本打包
+#### 可设置别名命令，全局运行脚本
+.zsh alias xxAlias="source path/xx.sh"
+  
  
  
